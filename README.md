@@ -29,3 +29,13 @@
 - calculate how much money each client brings;
 - determine when the cost of attracting a client pays off;
 - find out what factors hinder customer acquisition.
+
+
+## 📖 Graduation Project
+### Analysis of acqiusition sources in a mobile game
+
+*Data:* three datasets contain the data of the first users of the mobile game "Space Brothers" application — the cohorts of users who started using the application (the first level in the game) from May 4 to May 10, 2020 inclusive. It is assumed that the app will display ads on the screen with a choice of the type of object to be built. Completing the first level of games requires the player to fulfill one of two conditions:
+- Defeat the first enemy
+- Implementation of the project - development of an orbital assembly of satellites
+
+*The purpose:* to decompose tasks, to analyze the behavior of players depending on the source of the transition to the game, to identify the potentially most profitable source and to prepare a presentation for customers.

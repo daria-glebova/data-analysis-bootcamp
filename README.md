@@ -13,6 +13,7 @@
 
 *The purpose:* identify patterns that determine the success of the game, which will allow Strimchik to bet on a potentially popular product and plan advertising campaigns for 2017.
 
+💡*Tags:* Gamedev, Ecommerce, Marketing Analyst, Product Analyst, Matplotlib, NumPy, Pandas, Python, Exploratory Data Analysis, Descriptive Statistics, Data Preprocessing, Statistical Hypothesis Testing,  histogram, boxplot, Student's t-test, piechart
 
 
 ## 📖 Project 2
@@ -30,6 +31,7 @@
 - determine when the cost of attracting a client pays off;
 - find out what factors hinder customer acquisition.
 
+💡*Tags:* Internet services, Startups, web-analyst, Marketing analyst, Product analyst, Matplotlib, Pandas, Python, Seaborn, cohort analysis, product metrics, unit economics, LTV, CAC
 
 ## 📖 Graduation Project
 ### Analysis of acqiusition sources in a mobile game

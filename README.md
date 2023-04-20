@@ -33,6 +33,24 @@
 
 💡*Tags:* Internet services, Startups, web-analyst, Marketing analyst, Product analyst, Matplotlib, Pandas, Python, Seaborn, cohort analysis, product metrics, unit economics, LTV, CAC
 
+
+## 📖 Project 3
+### Ads study for the sale of apartments
+
+*Data:* The data of the Yandex.Realty service is available - an archive of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years. 
+
+*The purpose:* Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments.
+
+*Tasks:* 
+- determine the market value of various types of real estate objects; 
+- determine typical parameters of apartments, depending on the distance from the center;
+- carry out Data preprocessing; 
+- add new columns to the pandas-dataframe; 
+- plot Histograms, Boxplots, and Scatterplots to visualize data.
+
+💡*Tags:* Internet services, Ad Platforms, Data Analyst, Fraud analyst, Marketing analyst, Matplotlib, Pandas, Python, Data Visualization, Exploratory Data Analysis, Data Preprocessing, histogram, boxplot, scattermatrix, categorization, scatterplot
+
+
 ## 📖 Graduation Project
 ### Analysis of acqiusition sources in a mobile game
 

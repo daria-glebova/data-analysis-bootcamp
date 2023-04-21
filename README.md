@@ -11,7 +11,7 @@
 
 *Data:* historical data on sales of computer games in the Strimchik online store, containing information on game sales, user and expert ratings, genres and platforms, etc. for 1980-2016.
 
-*The purpose:* identify patterns that determine the success of the game, which will allow Strimchik to bet on a potentially popular product and plan advertising campaigns for 2017.
+🎯*The purpose:* identify patterns that determine the success of the game, which will allow Strimchik to bet on a potentially popular product and plan advertising campaigns for 2017.
 
 💡*Tags:* Gamedev, Ecommerce, Marketing Analyst, Product Analyst, Matplotlib, NumPy, Pandas, Python, Exploratory Data Analysis, Descriptive Statistics, Data Preprocessing, Statistical Hypothesis Testing,  histogram, boxplot, Student's t-test, piechart
 
@@ -21,7 +21,7 @@
 
 *Data:* data is available for users acquired during advertising campaigns from May 1 to October 27, 2019 for the Procrastinate Pro+ entertainment app. Despite huge investments in advertising, the company has been losing money for the past few months.
 
-*The purpose:* to understand the reasons for the company's losses and help it to become profitable.
+🎯*The purpose:* to understand the reasons for the company's losses and help it to become profitable.
 
 *Tasks:*
 
@@ -39,7 +39,7 @@
 
 *Data:* The data of the Yandex.Realty service is available - an archive of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years. 
 
-*The purpose:* Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments.
+🎯*The purpose:* Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments.
 
 *Tasks:* 
 - determine the market value of various types of real estate objects; 
@@ -50,6 +50,23 @@
 
 💡*Tags:* Internet services, Ad Platforms, Data Analyst, Fraud analyst, Marketing analyst, Matplotlib, Pandas, Python, Data Visualization, Exploratory Data Analysis, Data Preprocessing, histogram, boxplot, scattermatrix, categorization, scatterplot
 
+
+## 📖 Project 4
+### Hypothesis prioritization and analysis of A/B test results
+
+*Data:* data from a large online store containing 9 hypotheses for increasing the revenue of an online store with the specified parameters Reach, Impact, Confidence and Effort, users' orders in the online store, site visits by users.
+
+🎯*The purpose:* Prioritize hypotheses, run an A/B test, and analyze the results.
+
+*Tasks:*
+- Apply ICE and RICE frameworks to prioritize hypotheses;
+- Look at changes in cumulative revenue, average check and average number of orders per visitor by groups;
+- Check for differences in average bookings per visitor between groups;
+- Check for differences in the average check between groups;
+- Find out if there are significant outliers in the data, "clear" the data from them and repeat the stat. tests;
+- Make a decision based on the test results: stop the test and fix the results or continue the A/B test.
+
+💡*Tags:* Business Decision Making, Online shopping, Marketing AnalystPandas, Matplotlib, Scipy, A/B testing, testing of statistical hypotheses, framework RICE, framework ICE, Product Analyst
 
 ## 📖 Graduation Project
 ### Analysis of acqiusition sources in a mobile game

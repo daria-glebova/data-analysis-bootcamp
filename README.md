@@ -9,6 +9,8 @@
 ## 📖 Project 1
 ### Prediction of the computer games success
 
+✅ *Status:* **completed**
+
 *Data:* historical data on sales of computer games in the Strimchik online store, containing information on game sales, user and expert ratings, genres and platforms, etc. for 1980-2016.
 
 🎯*The purpose:* identify patterns that determine the success of the game, which will allow Strimchik to bet on a potentially popular product and plan advertising campaigns for 2017.
@@ -18,6 +20,8 @@
 
 ## 📖 Project 2
 ### Reasons for the company unprofitability
+
+✅ *Status:* **completed**
 
 *Data:* data is available for users acquired during advertising campaigns from May 1 to October 27, 2019 for the Procrastinate Pro+ entertainment app. Despite huge investments in advertising, the company has been losing money for the past few months.
 
@@ -37,6 +41,8 @@
 ## 📖 Project 3
 ### Ads study for the sale of apartments
 
+✅ *Status:* **completed**
+
 *Data:* The data of the Yandex.Realty service is available - an archive of ads for the sale of apartments in St. Petersburg and neighboring settlements for several years. 
 
 🎯*The purpose:* Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments.
@@ -53,6 +59,8 @@
 
 ## 📖 Project 4
 ### Hypothesis prioritization and analysis of A/B test results
+
+✅ *Status:* **completed**
 
 *Data:* data from a large online store containing 9 hypotheses for increasing the revenue of an online store with the specified parameters Reach, Impact, Confidence and Effort, users' orders in the online store, site visits by users.
 
@@ -71,8 +79,10 @@
 ## 📖 Graduation Project
 ### Analysis of acqiusition sources in a mobile game
 
+✅ *Status:* **completed**
+
 *Data:* three datasets contain the data of the first users of the mobile game "Space Brothers" application — the cohorts of users who started using the application (the first level in the game) from May 4 to May 10, 2020 inclusive. It is assumed that the app will display ads on the screen with a choice of the type of object to be built. Completing the first level of games requires the player to fulfill one of two conditions:
 - Defeat the first enemy
 - Implementation of the project - development of an orbital assembly of satellites
 
-*The purpose:* to decompose tasks, to analyze the behavior of players depending on the source of the transition to the game, to identify the potentially most profitable source and to prepare a presentation for customers.
+🎯*The purpose:* to decompose tasks, to analyze the behavior of players depending on the source of the transition to the game, to identify the potentially most profitable source and to prepare a presentation for customers.

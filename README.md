@@ -85,7 +85,7 @@
 
 🎯*The purpose*: Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments.
 
-💡*Tags:* Internet Services, Ad Markets, Fraud Analyst, Marketing Analyst, data preprocessing, histogram, boxplot, scattermatrix, categorization, scatterplot, fraud monitoring, Matplotlib, Pandas, Python, data visualization, exploratory data analysis
+💡*Tags:* Banking, Lending Data Analyst, Financial analyst, Pandas, Python, data preprocessing, data processing, duplicates, gaps, categorization, decomposition, data analyst, financial analyst
 
 ## 📖 Graduation Project
 ### Analysis of acqiusition sources in a mobile game

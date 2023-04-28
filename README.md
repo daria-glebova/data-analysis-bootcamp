@@ -76,6 +76,17 @@
 
 💡*Tags:* Business Decision Making, Online shopping, Marketing AnalystPandas, Matplotlib, Scipy, A/B testing, testing of statistical hypotheses, framework RICE, framework ICE, Product Analyst
 
+## 📖 Project 5
+### The bank borrower reliability study
+
+✅ *Status:* **completed**
+
+*Data* from the bank - statistics on the solvency of customers. The customer is the credit department of the bank. It is necessary to find out whether the marital status and the number of children of the client affect the fact of repaying the loan on time. The results of the study will be taken into account when building a credit scoring model - a special system that assesses the ability of a potential borrower to return a loan to a bank.
+
+🎯*The purpose*: Using data from the Yandex.Realty service, determine the market value of real estate and typical parameters of apartments.
+
+💡*Tags:* Internet Services, Ad Markets, Fraud Analyst, Marketing Analyst, data preprocessing, histogram, boxplot, scattermatrix, categorization, scatterplot, fraud monitoring, Matplotlib, Pandas, Python, data visualization, exploratory data analysis
+
 ## 📖 Graduation Project
 ### Analysis of acqiusition sources in a mobile game
 
